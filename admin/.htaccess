@@ -1,0 +1,4 @@
+AuthName "Member's Area"
+AuthUserFile /var/www/html/cms/admin/.htpasswd
+AuthType Basic
+require valid-user
